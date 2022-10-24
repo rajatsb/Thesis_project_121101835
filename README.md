@@ -1,5 +1,7 @@
 # Thesis_project_121101835
+
 Detecting bias in social media data
+
 At present, large amounts of data which is about petabytes of data is
 generated online on daily basis. There is no place where the data flood
 is more obvious than in social media. Utilizing this unheralded stream
@@ -27,6 +29,8 @@ It will also provide the performance in terms of accuracy in the form of
 tables and graphs.
 
 The overall project codes are given below:
+
+
 1] Kaggle Fake News Dataset Implementation Code:
 https://colab.research.google.com/drive/1gElTOtcTRiB-RBrEqek7WMWead7kHMBB?usp=sharing
 2] LIAR Dataset Implementation Code:
@@ -35,3 +39,4 @@ https://colab.research.google.com/drive/1UELKsSPQKFxz4nIqn5zKMZjueTrjXlSW?usp=sh
 https://colab.research.google.com/drive/1aumRhExMH8swp7HYTSGQDmO1UQnB0twr?usp=sharing
 4] Rotten Tomatoes Model BUilding and Hyperparameter Tuning Code:
 https://colab.research.google.com/drive/1sRTYfs7YPUImurl5dThb2QXmubxwA7KU?usp=sharing
+ Codes are attached 
